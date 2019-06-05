@@ -2,6 +2,9 @@
 
 _Tool used to create the raspberrypi.org Raspbian images_
 
+## Excellent Tutorial
+https://github.com/v1v3kgithub/pi-gen.git
+
 
 ## Dependencies
 
